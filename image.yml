@@ -13,6 +13,13 @@ release:
   branch: master
   tag: trixie
   channel: stable
+  tags:
+  - tag: trixie
+    description: Debian 13 Trixie.
+  - tag: bookworm
+    description: Debian 12 Bookworm.
+  - tag: kali
+    description: Kali Linux rolling.
 
 build:
   base: ubuntu
