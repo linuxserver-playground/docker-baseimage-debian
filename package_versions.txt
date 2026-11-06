@@ -1,7 +1,7 @@
 NAME                     VERSION                            TYPE  
 adduser                  3.152                              deb   
-apt                      3.0.3                              deb   
-apt-utils                3.0.3                              deb   
+apt                      3.0.4                              deb   
+apt-utils                3.0.4                              deb   
 base-files               13.8+deb13u7                       deb   
 base-passwd              3.6.7                              deb   
 bash                     5.2.37-2+b10                       deb   
@@ -49,7 +49,7 @@ jq                       1.7.1-6+deb13u4                    deb
 krb5-locales             1.21.3-5+deb13u1                   deb   
 libacl1                  2.3.2-2+b1                         deb   
 libapparmor1             4.1.0-1                            deb   
-libapt-pkg7.0            3.0.3                              deb   
+libapt-pkg7.0            3.0.4                              deb   
 libassuan9               3.0.2-2                            deb   
 libattr1                 1:2.5.2-3                          deb   
 libaudit-common          1:4.0.2-2+deb13u1                  deb   
