@@ -1,6 +1,6 @@
 NAME                      VERSION                    TYPE  
-apt                       3.3.3+kali1                deb   
-apt-utils                 3.3.3+kali1                deb   
+apt                       3.3.6+kali1                deb   
+apt-utils                 3.3.6+kali1                deb   
 base-files                1:2026.3.1                 deb   
 base-passwd               3.6.8                      deb   
 bash                      5.3-4                      deb   
@@ -34,7 +34,7 @@ jq                        1.8.2-1                    deb
 kali-archive-keyring      2025.3                     deb   
 kali-defaults             2026.3.2                   deb   
 libacl1                   2.4.0-1                    deb   
-libapt-pkg7.0             3.3.3+kali1                deb   
+libapt-pkg7.0             3.3.6+kali1                deb   
 libassuan9                3.0.2-2+b2                 deb   
 libattr1                  1:2.6.0-1                  deb   
 libaudit-common           1:4.1.2-1                  deb   
