@@ -7,9 +7,9 @@ bash                      5.3-4+b1                   deb
 bsdutils                  1:2.42.4-1                 deb   
 ca-certificates           20260816+nmu1              deb   
 catatonit                 0.2.1-2+b32                deb   
-coreutils                 9.10-1                     deb   
-cron                      3.0pl1-212                 deb   
-cron-daemon-common        3.0pl1-212                 deb   
+coreutils                 9.12-0.3                   deb   
+cron                      3.0pl1-213                 deb   
+cron-daemon-common        3.0pl1-213                 deb   
 curl                      8.22.0-1                   deb   
 dash                      0.5.12-12                  deb   
 debconf                   1.5.92                     deb   
@@ -48,10 +48,11 @@ libc-gconv-modules-extra  2.43-7                     deb
 libc-l10n                 2.43-7                     deb   
 libc6                     2.43-7                     deb   
 libcap-ng0                0.9.6-1+b1                 deb   
+libcap2                   1:2.78-1+b2                deb   
 libcom-err2               1.47.4-1+b3                deb   
 libcrypt1                 1:4.5.2+20251210-1         deb   
 libcurl4t64               8.22.0-1                   deb   
-libdb5.3t64               5.3.28+dfsg2-11+b1         deb   
+libdb5.3t64               5.3.28+dfsg2-12            deb   
 libdebconfclient0         0.283                      deb   
 libffi8                   3.8.0-2                    deb   
 libgcc-s1                 16.2.0-4                   deb   
@@ -132,4 +133,4 @@ sysvinit-utils            3.18-1                     deb
 tar                       1.35+dfsg-7                deb   
 tzdata                    2026f-1                    deb   
 util-linux                2.42.4-1                   deb   
-zlib1g                    1:1.3.dfsg+really1.3.2-3   deb   
+zlib1g                    1:1.3.dfsg+really1.3.2-4   deb   
